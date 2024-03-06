@@ -42,15 +42,12 @@ python NOME_ARQUIVO.py
 ```
 
 Contribuição
-Sua contribuição é bem-vinda! Se você quiser contribuir para NOME_DO_SEU_PROJETO, siga estes passos:
+Sua contribuição é bem-vinda! Se você quiser contribuir para o Mapeamento de IPs locais, siga estes passos:
 
 1. Faça um fork do projeto.
 2. Crie uma branch para sua feature (git checkout -b feature/nova-feature).
 3. Faça commit das suas mudanças (git commit -m 'Adicione uma nova feature').
 4. Faça push da sua branch (git push origin feature/nova-feature).
 5. Abra um Pull Request.
-   
 
-Licença
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE.md para detalhes.
 
